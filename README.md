@@ -1,4 +1,4 @@
-# My Blog
+# My Blog   鱼粥酱菜
 
 My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验，如果觉得这个项目不错，可以为它[点赞](https://github.com/ZHENFENG13/My-Blog/stargazers)支持。
 
